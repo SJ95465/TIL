@@ -1,4 +1,4 @@
-# 첫 GIT hub
+# 첫 GIThub
 
 ## readme 생성
 
